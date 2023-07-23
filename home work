@@ -1,0 +1,13 @@
+1. Gender objecti id si olinadi. va wu ganderdagi personlar chiqarib beriladi. \/
+2. Person id olinadi. Va bu personni dostlari chiqarib beriladi.?
+3. bitta location id olinadi va shu location nechta qiz bola nechta ogil bola bor\/
+4. bitta personni necha hil genderdagi dostlari bor.
+
+
+fk ulanayotganda related_name
+
+#home
+
+
+
+
